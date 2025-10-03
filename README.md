@@ -1,4 +1,4 @@
-# IA_breast_cancer
+# Project IRB_BC_MLM
 
 **Environment (Python 3.12)**
 
